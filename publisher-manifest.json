@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "82c19f4c7413a09e3bcc97ed",
+  "owner": "sscvay",
+  "repo": "page-59755cd2ad064ccca3334590",
+  "title": "UAPLink",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "59755cd2ad064ccca3334590",
+      "a": "UAPLink",
+      "b": "2027官方最新地址导航",
+      "entity": "UAPLink",
+      "brand": "UAPLink",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "c4a842f825c06b531d8988a285aa1bd160e1166e394e56647830fd5e62bbe8fd",
+      "content": {
+        "primary_entity": "UAPLink",
+        "keyword1": "UAPLink",
+        "keyword2": "2027官方最新地址导航",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备系统选择对应客户端，再导入订阅配置即可。",
+          "AI_CLIENTS_TITLE": "设备与客户端匹配",
+          "AI_CLOSING_TEXT": "选好套餐，下载客户端导入订阅，即可开始使用 UAPLink。",
+          "AI_CLOSING_TITLE": "开始使用 UAPLink",
+          "AI_DESCRIPTION": "，围绕设备选择、订阅配置与套餐对比整理实用信息。基础版适合单人或双人轻度使用，旗舰版增加设备数与专线节点，团队版满足多人共享和企业路由需求。查看适配要求后，按客户端文档导入订阅即可完成配置。",
+          "AI_FEATURES_INTRO": "从设备数量、订阅周期和节点需求出发，找到合适的套餐。",
+          "AI_FEATURES_TITLE": "选择要点",
+          "AI_FEATURE_TEXT_1": "个人或双人轻度使用可选基础版，月付 ¥15，年付 ¥150，3 台设备同时在线。",
+          "AI_FEATURE_TEXT_2": "需要更多设备与流媒体解锁，旗舰版月付 ¥35，年付 ¥350，5 台设备同时在线。",
+          "AI_FEATURE_TEXT_3": "多人团队共享建议团队版，月付 ¥85，年付 ¥850，支持 20 台设备与专属高带宽节点。",
+          "AI_FEATURE_TITLE_1": "按设备数量选",
+          "AI_FEATURE_TITLE_2": "看订阅周期",
+          "AI_FEATURE_TITLE_3": "匹配流量需求",
+          "AI_GUIDE_INTRO": "三步完成 UAPLink 订阅配置。",
+          "AI_GUIDE_TITLE": "配置流程",
+          "AI_HERO_INTRO": "UAPLink 提供多种流量与设备规格的加速套餐，结合客户端订阅配置，满足个人与团队不同场景的使用需求。",
+          "AI_HERO_SUBTITLE": "多设备多场景的加速选择",
+          "AI_HIGHLIGHT_1": "基础版 ¥15/月，100GB 流量",
+          "AI_HIGHLIGHT_2": "旗舰版 ¥35/月，IPLC 专线加速",
+          "AI_HIGHLIGHT_3": "团队版 ¥85/月，支持 20 台设备",
+          "AI_PLANS_INTRO": "基础版、旗舰版与团队版按流量、设备数和节点类型区分，可结合年付价格对比。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据流量和同时在线设备数量，在基础版、旗舰版或团队版中选择合适规格。",
+          "AI_STEP_TEXT_2": "确认设备系统与客户端适配要求，准备好订阅链接或配置信息。",
+          "AI_STEP_TEXT_3": "在所选客户端中按文档导入订阅配置，保存后连接对应节点即可使用。",
+          "AI_STEP_TITLE_1": "选择服务",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "依客户端配置订阅",
+          "AI_VISUAL_TITLE": "UAPLink 套餐与客户端配置",
+          "AI_FAQ_TITLE": "UAPLink 常见问题",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "UAPLink 套餐如何选择？",
+          "AI_FAQ_ANSWER_1": "先看每月大致流量和同时在线设备数。100GB 与 3 台设备对应基础版，300GB 与 5 台设备对应旗舰版，需要 1000GB 和 20 台设备则选团队版。",
+          "AI_FAQ_QUESTION_2": "订阅可以导入哪些客户端？",
+          "AI_FAQ_ANSWER_2": "按客户端文档选择对应系统的版本，不同平台配置方式略有差异。导入前确认订阅格式与客户端要求的字段一致，再保存并测试连接。",
+          "AI_FAQ_QUESTION_3": "同时在线设备数量怎么计算？",
+          "AI_FAQ_ANSWER_3": "以同一时间保持连接的设备台数为准，基础版 3 台、旗舰版 5 台、团队版 20 台。超出数量可升级套餐，或在设备上关闭不需要的连接。",
+          "AI_FAQ_QUESTION_4": "月付和年付有什么区别？",
+          "AI_FAQ_ANSWER_4": "月付按月续费，适合先体验；年付折算单价更低，基础版 ¥150/年、旗舰版 ¥350/年、团队版 ¥850/年。长期使用可选年付节省开支。",
+          "AI_FAQ_QUESTION_5": "线路和节点如何区分？",
+          "AI_FAQ_ANSWER_5": "基础版使用普通线路节点池，旗舰版提供流媒体解锁与 IPLC 专线游戏优化，团队版配有 VIP 高带宽节点。按使用场景选择对应套餐即可。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "kjxqia.cn",
+    "host": "kjxqia.cn"
+  },
+  "file_hashes": {
+    "index.html": "49bae02c7fcbb9fe6d791a22fa458a9f0d9902fad8d066b3e97ff51c8022fe0d",
+    "sitemap.xml": "f8301c59411befe1af1c2b049f09e95838a4b1677945bf982d28eed0e7c4f15f",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "435d2e63ec69ae7f94068c40267d31e93650430c3c13d15aad4ebfb157c77145",
+    "robots.txt": "435a38e84ab179feb27786425f2e2dfab70cdeeb70423f40ff1d2bf769dbe541",
+    "8a26fff9c909e6d1a95312052dbc7b09.txt": "ee2b1c460bf5eec75948b3b82edae45bc9495bf700c14fcb1d3dcd2c5eb5312a"
+  },
+  "revision": "773269788aa5a6068383d6675aa320a6cee82856430303072ff7ca65c33a5fda"
+}
